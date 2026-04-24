@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|c:\\users\\asus rog\\source\\repos\\mvc-pustokfirst\\mvc-pustokfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D13085F-9255-40FE-AC83-0D2CF6E30309}|MVC-PustokFirst\\MVC-PustokFirst.csproj|solutionrelative:mvc-pustokfirst\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwDEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T14:23:19.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T14:23:05.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:50:16.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:49:58.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:49:51.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:46:13.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:46:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADADAAAAAAAAAAAAAD8DAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:22:22.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:13:50.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC-PustokFirst\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-24T13:22:01.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:45:45.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Program.cs",
+              "RelativeDocumentMoniker": "MVC-PustokFirst\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\MVC-PustokFirst\\MVC-PustokFirst\\Program.cs",
+              "RelativeToolTip": "MVC-PustokFirst\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T13:22:56.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
