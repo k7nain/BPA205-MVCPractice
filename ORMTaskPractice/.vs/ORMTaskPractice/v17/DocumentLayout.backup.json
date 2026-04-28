@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\migrations\\20260428143138_createdbproducttablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\migrations\\20260428143138_createdbproducttablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\blog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\auth\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\wwwroot\\assets\\css\\main.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\wwwroot\\assets\\css\\plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\wwwroot\\assets\\css\\plugins.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|c:\\users\\asus rog\\source\\repos\\ormtaskpractice\\ormtaskpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BF282001-0389-466D-929C-D741F6BBF5B8}|ORMTaskPractice\\ORMTaskPractice.csproj|solutionrelative:ormtaskpractice\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20260428143138_CreateDBProductTablesCreated.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Migrations\\20260428143138_CreateDBProductTablesCreated.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Migrations\\20260428143138_CreateDBProductTablesCreated.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Migrations\\20260428143138_CreateDBProductTablesCreated.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Migrations\\20260428143138_CreateDBProductTablesCreated.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:31:38.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Models\\Product.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:06:49.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T14:05:41.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\appsettings.json",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\appsettings.json",
+              "RelativeToolTip": "ORMTaskPractice\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-28T13:57:23.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ORMTaskPractice\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:55:03.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Program.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:31:16.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:26:03.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAOIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:26:31.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:46:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Blog\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Blog\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Blog\\Index.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Blog\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:45:51.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Auth\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Auth\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Auth\\Index.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Auth\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:45:42.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:45:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:44:28.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:43:52.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:44:37.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ORMTaskPractice\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:43:41.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "main.css",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\wwwroot\\assets\\css\\main.css",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\wwwroot\\assets\\css\\main.css",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\wwwroot\\assets\\css\\main.css",
+              "RelativeToolTip": "ORMTaskPractice\\wwwroot\\assets\\css\\main.css",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-28T13:42:39.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "plugins.css",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\wwwroot\\assets\\css\\plugins.css",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\wwwroot\\assets\\css\\plugins.css",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\wwwroot\\assets\\css\\plugins.css",
+              "RelativeToolTip": "ORMTaskPractice\\wwwroot\\assets\\css\\plugins.css",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-28T13:42:33.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ORMTaskPractice\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS ROG\\source\\repos\\ORMTaskPractice\\ORMTaskPractice\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ORMTaskPractice\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-28T13:33:54.43Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
