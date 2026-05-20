@@ -1,0 +1,8 @@
+﻿namespace Bilet_1_Practice_.Models.Base
+{
+    public class BaseEntity
+    {
+        public int Id { get; set; }
+        public bool IsDeleted { get; set; }
+    }
+}

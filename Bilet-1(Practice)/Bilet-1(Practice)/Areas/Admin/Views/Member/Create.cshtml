@@ -1,0 +1,29 @@
+﻿@using Bilet_1_Practice_.Areas.Admin.ViewModels.Member
+@model CreateMemberVM
+
+<div>
+    <form asp-controller="Member" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name">
+            <span asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Surname" class="form-label">Surname</label>
+            <input asp-for="@Model.Surname" type="text" class="form-control" id="Surname" placeholder="Add Surname">
+            <span asp-validation-for="@Model.Surname"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Position" class="form-label">Position</label>
+            <input asp-for="@Model.Position" type="text" class="form-control" id="Position" placeholder="Add Position">
+            <span asp-validation-for="@Model.Position"></span>
+        </div>
+        <div class="mb-3">
+            <label for="imgFile" class="form-label">Image</label>
+            <input asp-for="@Model.ImageFile" type="file" class="form-control" id="imgFile" placeholder="Add Image">
+            <span asp-validation-for="@Model.ImageFile"></span>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>
