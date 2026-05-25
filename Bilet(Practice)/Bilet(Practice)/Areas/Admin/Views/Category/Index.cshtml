@@ -1,0 +1,62 @@
+﻿@using Bilet_Practice_.Models
+@model List<Category>
+
+<div>
+    <a class="btn btn-primary" asp-controller="Category" asp-action="Create">Create</a>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="3" scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Category category in Model)
+            {
+                <tr>
+                    <th scope="row">@category.Id</th>
+                    <td>@category.Name</td>
+                    @if (!category.IsDeleted)
+                    {
+                        <td class="text-success">Active</td>
+                    }
+                    else
+                    {
+                        <td class="text-danger">InActive</td>
+
+                    }
+
+                    <td>
+                        <a class="btn btn-primary" asp-controller="category" asp-action="Update" asp-route-id="@category.Id">Update</a>
+                    </td>
+
+                    <td>
+                        <form asp-controller="Category" asp-action="HardDelete" asp-route-id="@category.Id" method="post">
+                            <button class="btn btn-danger">HardDelete</button>
+                        </form>
+                    </td>
+
+                    @if (!category.IsDeleted)
+                    {
+                        <td>
+                            <form asp-controller="Category" asp-action="SoftDelete" asp-route-id="@category.Id" method="post">
+                                <button class="btn btn-warning">SoftDelete</button>
+                            </form>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <form asp-controller="Category" asp-action="Restore" asp-route-id="@category.Id" method="post">
+                                <button class="btn btn-success">Restore</button>
+                            </form>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,40 @@
+﻿@using Bilet_Practice_.Areas.Admin.ViewModels.Game
+@model CreateGameVM
+<div>
+    <form asp-controller="Game" asp-action="Create" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label for="Name" class="form-label">Name</label>
+            <input asp-for="@Model.Name" type="text" class="form-control" id="Name" placeholder="Add Name...">
+            <span class="text-danger" asp-validation-for="@Model.Name"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Discount" class="form-label">Discount</label>
+            <input asp-for="@Model.Discount" type="number" class="form-control" id="Discount" placeholder="Add Discount...">
+            <span class="text-danger" asp-validation-for="@Model.Discount"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Price" class="form-label">Price</label>
+            <input asp-for="@Model.Price" type="number" class="form-control" id="Price" placeholder="Add Price...">
+            <span class="text-danger" asp-validation-for="@Model.Price"></span>
+        </div>
+        <div class="mb-3">
+            <label for="Description" class="form-label">Description</label>
+            <input asp-for="@Model.Description" type="text" class="form-control" id="Description" placeholder="Add Description...">
+            <span class="text-danger" asp-validation-for="@Model.Description"></span>
+        </div>
+        <div class="mb-3">
+            <label for="imgURl" class="form-label">Image</label>
+            <input asp-for="@Model.ImageFile" type="file" class="form-control" id="imgURL" placeholder="Add Image...">
+            <span class="text-danger" asp-validation-for="@Model.ImageFile"></span>
+        </div>
+        <select asp-for="@Model.CategoryId" class="form-select" aria-label="Multiple select example">
+            <option selected>Categories Select</option>
+            @foreach (var category in ViewBag.Categories)
+            {
+                <option value="@category.Id">@category.Name</option>
+            }
+        </select>
+            <span class="text-danger" asp-validation-for="@Model.CategoryId"></span>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

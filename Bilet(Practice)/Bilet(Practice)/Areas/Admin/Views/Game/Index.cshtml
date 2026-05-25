@@ -1,0 +1,74 @@
+﻿@using Bilet_Practice_.Models
+@model List<Game>
+
+<div>
+    <a class="btn btn-primary" asp-controller="Game" asp-action="Create">Create</a>
+
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Discount</th>
+                <th scope="col">Price</th>
+                <th scope="col">Category</th>
+                <th scope="col">Images</th>
+                <th scope="col">Delete Status</th>
+                <th colspan="3" scope="col">Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Game game in Model)
+            {
+                <tr>
+                    <th scope="row">@game.Id</th>
+                    <td>@game.Name</td>
+                    <td>@game.Discount</td>
+                    <td>@game.Price</td>
+                    <td>@game.Category.Name</td>
+                    <td>
+
+                        <img src="~/uploads/games/@game.ImageUrl" alt="" style="max-width: 44px;">
+
+                    </td>
+                    @if (!game.IsDeleted)
+                    {
+                        <td class="text-success">Active</td>
+                    }
+                    else
+                    {
+                        <td class="text-danger">InActive</td>
+
+                    }
+
+                    <td>
+                        <a class="btn btn-primary" asp-controller="Game" asp-action="Update" asp-route-id="@game.Id">Update</a>
+                    </td>
+
+                    <td>
+                        <form asp-controller="Game" asp-action="HardDelete" asp-route-id="@game.Id" method="post">
+                            <button class="btn btn-danger">HardDelete</button>
+                        </form>
+                    </td>
+
+                    @if (!game.IsDeleted)
+                    {
+                        <td>
+                            <form asp-controller="Game" asp-action="SoftDelete" asp-route-id="@game.Id" method="post">
+                                <button class="btn btn-warning">SoftDelete</button>
+                            </form>
+                        </td>
+                    }
+                    else
+                    {
+                        <td>
+                            <form asp-controller="Game" asp-action="Restore" asp-route-id="@game.Id" method="post">
+                                <button class="btn btn-success">Restore</button>
+                            </form>
+                        </td>
+                    }
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

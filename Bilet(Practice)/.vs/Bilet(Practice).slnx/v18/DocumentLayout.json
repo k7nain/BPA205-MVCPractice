@@ -1,0 +1,661 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\viewmodels\\account\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\game\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\viewmodels\\category\\createcategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\game\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\game\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\game\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\viewmodels\\game\\updategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\viewmodels\\game\\updategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\viewmodels\\game\\creategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\viewmodels\\game\\creategamevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\category\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\viewmodels\\category\\updatecategoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\utilities\\extensions\\imageuploadsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\utilities\\extensions\\imageuploadsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\bilet(practice).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\bilet(practice).csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|c:\\users\\qonaq\\desktop\\bilet(practice)\\bilet(practice)\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A75DE2B0-905B-F9B9-B5A1-09F5D70924E3}|Bilet(Practice)\\Bilet(Practice).csproj|solutionrelative:bilet(practice)\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 707,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T14:02:37.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T14:00:01.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\ViewModels\\Account\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\ViewModels\\Account\\LoginVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\ViewModels\\Account\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:48:28.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\ViewModels\\Account\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\ViewModels\\Account\\RegisterVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\ViewModels\\Account\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:48:24.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:47:22.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Controllers\\GameController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:42:16.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:34:55.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:35:13.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:32:50.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:35:09.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwDQAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:36:31.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T12:14:01.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\CreateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:37:20.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:42:49.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T13:41:24.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T13:42:37.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T13:43:29.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateGameVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\CreateGameVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\CreateGameVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\CreateGameVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\CreateGameVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:15:36.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateGameVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\UpdateGameVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\UpdateGameVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\UpdateGameVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Game\\UpdateGameVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:22:14.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Update.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Game\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T13:27:31.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UpdateCategoryVM.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\ViewModels\\Category\\UpdateCategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T13:37:28.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Category.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:41:58.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Game.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Models\\Game.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:41:54.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImageUploadsExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Utilities\\Extensions\\ImageUploadsExtensions.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Utilities\\Extensions\\ImageUploadsExtensions.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Utilities\\Extensions\\ImageUploadsExtensions.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Utilities\\Extensions\\ImageUploadsExtensions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T12:09:29.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "Bilet(Practice)\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:44:20.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:34:08.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:54:24.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAkwGcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:34:25.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:40:50.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T10:40:58.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20260525115834_AddedColumn.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Migrations\\20260525115834_AddedColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T11:58:34.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Program.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Program.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Program.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:36:52.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:34:10.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Bilet(Practice).csproj",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Bilet(Practice).csproj",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Bilet(Practice).csproj",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Bilet(Practice).csproj",
+              "RelativeToolTip": "Bilet(Practice)\\Bilet(Practice).csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T10:44:12.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\AppUser.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:45:48.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\appsettings.json",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\appsettings.json",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\appsettings.json",
+              "RelativeToolTip": "Bilet(Practice)\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-25T10:48:56.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bilet(Practice)\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-25T11:37:28.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Bilet(Practice)\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Qonaq\\Desktop\\Bilet(Practice)\\Bilet(Practice)\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "Bilet(Practice)\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T10:41:22.246Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
